@@ -39,7 +39,7 @@ $ git config user.email
 ## 把本地git仓库勾连远程服务器 $ git remote add origin https://github.com/mcslj/pt3.git
 ## 把修改提交到远程仓库 $ git push -u origin master  $ git push origin master  
    输入GitHub 用户名 mcslj
-   输入GitHub 密码 mc92slj@@
+   输入GitHub 密码 ....
 
 ## 删除本地git仓库先删 .git 文件 $ rm -rf .git
 
